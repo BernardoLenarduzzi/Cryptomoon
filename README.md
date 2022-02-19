@@ -1,1 +1,1 @@
-# Cryptomoon
+O Cryptomoon foi um site criado no estilo noticiario, Criado em HTML5, CSS3 e JavaScript, foi utilizado tag's semanticas, como "Header,Main,Footer", o site é totalmente RESPONSIVO e conta com menu "Hamburguer" animado. 
